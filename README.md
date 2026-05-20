@@ -71,4 +71,32 @@
 <div align="center" style="margin: 30px 0;">
   <h3 style="color: #F59E0B; margin-bottom: 12px;">🔧 Tools</h3>
   <p>
-    <img
+    <img334155; margin: 0;">Ethiopia</p>
+  </div>
+  <!-- Availability card -->
+  <div style="background-color: #F8FAFC; border-radius: 16px; padding: 20px 30px; width: 200px; border: 1px solid #E2E8F0;">
+    <h4 style="color: #8B5CF6; margin: 0 0 8px 0;">🤝 Availability</h4>
+    <p style="color: #334155; margin: 0;">Open to opportunities</p>
+  </div>
+</div>
+
+
+
+
+<!-- PROFILE VISITS & QUOTE -->
+<div align="center" style="margin: 40px 0;">
+  <a href="https://github.com/yihune1234">
+    <img src="https://komarev.com/ghpvc/?username=yihune1234&label=Profile%20Views&color=6366F1&style=flat-square&labelColor=0F172A" alt="Profile Views" />
+  </a>
+</div>
+
+<div align="center" style="margin: 50px auto; max-width: 700px; padding: 20px; border-left: 4px solid #10B981; background-color: #F8FAFC; border-radius: 8px;">
+  <p style="color: #334155; font-size: 18px; font-style: italic;">
+    “Good code is like a good story — it should be clean, structured, and easy to follow.” ✨
+  </p>
+</div>
+
+<!-- FOOTER -->
+<div align="center" style="margin-top: 60px; color: #94A3B8; font-size: 14px;">
+  <p>Thanks for stopping by! Have a great day 😊</p>
+</div>
