@@ -1,7 +1,7 @@
 <div align="center">
   <!-- TYPING ANIMATION -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=3500&pause=700&color=10B981&center=true&vCenter=true&width=700&lines=Hello+👋+I'm+Bealu+Girma;Full-Stack+Web+Developer;Building+Modern+Web+Solutions;Clean+Code+•+Scalable+Architecture" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=3500&pause=700&color=10B981&center=true&vCenter=true&width=700&lines=Hello+👋+I'm+Bealu+Girma;Developer;Building+Modern+Web+Solutions;Clean+Code+•+Scalable+Architecture" 
     alt="Typing Animation" 
   />
 </div>
@@ -18,16 +18,16 @@
 <!-- STATUS BADGES (more consistent style) -->
 <div align="center" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/🎓-4th_Year_Software_Engineering-1E293B?style=flat-square&logo=bookstack&logoColor=white&labelColor=0F172A" alt="Student" />
-  <img src="https://img.shields.io/badge/🔥-Full_Stack_Developer-1E293B?style=flat-square&logo=react&logoColor=white&labelColor=0F172A" alt="Full Stack" style="margin-left: 8px;" />
+  <img src="https://img.shields.io/badge/🔥Developer-1E293B?style=flat-square&logo=react&logoColor=white&labelColor=0F172A" alt="Full Stack" style="margin-left: 8px;" />
   <img src="https://img.shields.io/badge/📍-Ethiopia-1E293B?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0F172A" alt="Location" style="margin-left: 8px;" />
 </div>
 
 <!-- CALL TO ACTION BUTTONS -->
 <div align="center" style="margin: 35px 0;">
-  <a href="https://yihunebelayportfolio.onrender.com/" target="_blank">
+  <a href="I am on the way" target="_blank">
     <img src="https://img.shields.io/badge/📁-View_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=10B981" alt="Portfolio" />
   </a>
-  <a href="mailto:yihunebelay859@gmail.com" style="margin-left: 12px;">
+  <a href="mailto:gbealu94@gmail.com" style="margin-left: 12px;">
     <img src="https://img.shields.io/badge/📧-Contact_Me-0F172A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3B82F6" alt="Email" />
   </a>
 </div>
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
     <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=postman&logoColor=white" alt="REST API" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="postgressql" />
   </p>
 </div>
 
@@ -85,8 +85,8 @@
 
 <!-- PROFILE VISITS & QUOTE -->
 <div align="center" style="margin: 40px 0;">
-  <a href="https://github.com/yihune1234">
-    <img src="https://komarev.com/ghpvc/?username=yihune1234&label=Profile%20Views&color=6366F1&style=flat-square&labelColor=0F172A" alt="Profile Views" />
+  <a href="https://github.com/bealu-girma-bayissa">
+    <img src="https://komarev.com/ghpvc/?username=bealu-girma-bayissa&label=Profile%20Views&color=6366F1&style=flat-square&labelColor=0F172A" alt="Profile Views" />
   </a>
 </div>
 
