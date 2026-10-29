@@ -12,7 +12,7 @@ Building data-driven applications, scalable systems, and modern web solutions.
 
 ## About Me
 
-- 🎓 4th Year Software Engineering Student  
+- 🎓 5th Year Software Engineering Student  
 - 📊 Focused on Data Science & Machine Learning  
 - 🌐 Interested in Full-Stack Web Development  
 - 🧠 Passionate about solving real-world problems using data  
